@@ -1,0 +1,1 @@
+ C:\\Users\\Player\ One\\Desktop\\flutter\\fake_store_flutter-main\\.dart_tool\\flutter_build\\a7e9ffccb51ce4d131de4d3642d26710\\native_assets.yaml: 

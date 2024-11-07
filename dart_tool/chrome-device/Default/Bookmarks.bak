@@ -1,0 +1,76 @@
+{
+   "checksum": "98f47f2b47f114f063227f1471dc911b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13316586117651007",
+            "date_last_used": "0",
+            "guid": "3aba3e8c-159d-4fb9-9531-dc7a73817ad0",
+            "id": "6",
+            "name": "Color theme from image | Adobe Color",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://color.adobe.com/create/image",
+            "visit_count": 0
+         }, {
+            "date_added": "13319131944904900",
+            "date_last_used": "0",
+            "guid": "450fa61a-9926-4fe8-971f-6dd32b2a5a64",
+            "id": "7",
+            "name": "Categories ‹ TRAVEL — WordPress",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "http://localhost/midterm/wp-admin/edit-tags.php?taxonomy=category&post_type=post&from_tag=15&new_lang=en",
+            "visit_count": 0
+         }, {
+            "date_added": "13348035434196842",
+            "date_last_used": "0",
+            "guid": "c897fcfc-c222-44a8-a558-0c47d0dfb803",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "java",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://classroom.google.com/c/NjIzNTMxOTk3NTg4?cjc=rlelsrz",
+            "visit_count": 0
+         } ],
+         "date_added": "13374899206165946",
+         "date_last_used": "0",
+         "date_modified": "13348035434196842",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13374899206165976",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13374899206165979",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCHDBMqSMAQAAEgAqGEhtN056NXE1YzlRRStKaDJzZUY0L3c9PUgDoAYHEq0BCAgSqAEKHFFsd1MrSG5hNytWNjQrWHdZK1R4RmkzZHNUTT0SJGM4OTdmY2ZjLWMyMjItNDRhOC1hNTU4LTBjNDdkMGRmYjgwMxgAIAAoADDvgsuhyjE4ldfKocoxQJXXyqHKMUocTUJJQlJZK1k4L1NveTUzYzRodm1YdEVxaGprPVofIh28T0VVWGVqQjYwNVl0ZEJqQlBoZ2hWSDFIV3JBPWUER1j5wj4CYAASrAEIBhKnAQocaW1lcGR2WEc0NmZjL3pRb1JJSmIyOTFwOU5jPRIkM2FiYTNlOGMtMTU5ZC00ZmI5LTk1MzEtZGM3YTczODE3YWQwGAAgACgAMOaIkfzvMDiZ6ZD87zBAmemQ/O8wShxuNWhXYmM1aG11b2ZrdzF4NnZYOUJoa0t2cnc9Wh4iHHhnZENnZlJFS3hxamt5WTZ0aGRkL3FWWXQxST1lsjUnc8I+AmAAEqwBCAcSpwEKHGpqeGVpTmx4SUxEWmwyWGFCblN4RG56aWZnQT0SJDQ1MGZhNjFhLTk5MjYtNGZlOC05NzFmLTZkZDMyYjJhNWE2NBgAIAAoADDliJH87zA4iumQ/O8wQIrpkPzvMEocYStsdEtPTlI0ZUVsdm9GVUhaR1c2TjJhSit3PVoeIhx5aGx2ay9ISHFDWWd6dXVteDVFdm1HTGl2Ymc9ZZY9k/vCPgJgABKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQyZGE3NzBlNy04NjFhLTU2OTYtOWUwMC1hZGRkNDIzMWU2MGMYACAAKAAw8YDM8e0wOJyCzPHtMECcgszx7TBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMjYxOTNlMjctNTZiYS01ZDcxLWEwYjktMzQwM2RkMjhhYmFiGAAgACgAMPKAzPHtMDi7gszx7TBAu4LM8e0wShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDY3ZDczYTU4LTZjZGItNWMwMi05YmVkLWM4OTlhMDkwMjY0NRgAIAAoADD3gMzx7TA494PM8e0wQPeDzPHtMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
